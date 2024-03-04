@@ -1,0 +1,10 @@
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\bin\Debug\Forma.exe.config
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\bin\Debug\Forma.exe
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\bin\Debug\Forma.pdb
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.exe
+C:\Users\Nikola\Desktop\Za github\Projekat 1\WindowsFormsApp7\obj\Debug\Forma.pdb
